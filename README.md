@@ -1,5 +1,4 @@
 #gewalthetzerechts
-##please notice that the json dataset is not provided
 ##installation:
 
 $ npm install
